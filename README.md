@@ -6,5 +6,5 @@ produced for 1821 - Principle of Software Engineering. All developed from a real
 # What I Learned
 
 * Developed a graphic user interface using Python Tkinter, using SQL queries, the xml file using RelativeLayout, ListView, EditText, & Button.
-* Importance of Software Engineering documentation, various approaches (5Ps, Testing, Agile, ..), to develop quality Software, also using OOP.
+* Importance of Software Engineering documentation, various approaches (5Ps, Testing, Agile, Scrum, ..), to develop quality Software, also using OOP.
 * Implemented features to the GUI: Login, AddItem, EditItem, DeleteItem, ...
