@@ -1,3 +1,10 @@
+"""
+Author: Gabriele Cotigliani
+StudentID: 001115137
+Date: 27/01/2021
+Python Coursework, AAT application, Features 1
+"""
+
 import sqlite3
 
 
